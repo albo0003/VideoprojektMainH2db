@@ -19,6 +19,7 @@ public class InitData {
         carList.add(new Car(3, "VW", 1986, "Coupe", "Black", "GHI789", "GulVWBobbel.jpg"));
         carList.add(new Car(4, "Western Star", 1998, "Hatchback", "White", "JKL012", "WesternstarRødTruck.jpg"));
         carList.add(new Car(5, "Hyundai", 2002, "Convertible", "Silver", "MNO345", "generic.jpg"));
+        carList.add(new Car(5, "Hyundaiiiii", 2025, "Convertible", "orange", "MNO345", "generic.jpg"));
     }
 
     public ArrayList<Car> getCarList() {
